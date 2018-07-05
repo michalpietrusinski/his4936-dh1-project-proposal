@@ -8,7 +8,7 @@ bibliography.
 
 Below are a few examples
 
-change NOW
+change NOW #2
 
 * Cheyette, Fredric L. *Ermengard of Narbonne and the World of the Troubadours*.  Ithaca, Cornell University Press, 2001.
 * Chaniotis, Angelos. *Die Verträge zwischen kretischen Poleis in der hellenistischen Zeit*. Heidelberger althistorische Beiträge und epigraphische Studien 24. Stuttgart: Franz Steiner Verlag, 1996.
