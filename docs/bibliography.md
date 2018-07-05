@@ -8,6 +8,8 @@ bibliography.
 
 Below are a few examples
 
+change NOW
+
 * Cheyette, Fredric L. *Ermengard of Narbonne and the World of the Troubadours*.  Ithaca, Cornell University Press, 2001.
 * Chaniotis, Angelos. *Die Verträge zwischen kretischen Poleis in der hellenistischen Zeit*. Heidelberger althistorische Beiträge und epigraphische Studien 24. Stuttgart: Franz Steiner Verlag, 1996.
 * Clinton, Kevin. “A Family of Eumolpidai and Kerykes Descended from Pericles.” *Hesperia* 73,  no. 1 (2004): 39-57.
